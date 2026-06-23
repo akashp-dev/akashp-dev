@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Mastering the art of making predictive models that don’t overfit like it’s their full-time job.**
 
-- 👨‍💻 All of my projects are available at [akspnm.vercel.app](akspnm.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akspnm.vercel.app)
 
 - 💬 Ask me about **SQL tricks, Python pandas wizardry, dashboard design, cloud data pipelines… or why VLOOKUP still haunts me.**
 
